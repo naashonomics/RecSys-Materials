@@ -1,2 +1,2 @@
 # RecSys-Materials
-Reccomender Sysstems with Sckit Surpirse 
+Recommendation System with Scikit Surprise package
